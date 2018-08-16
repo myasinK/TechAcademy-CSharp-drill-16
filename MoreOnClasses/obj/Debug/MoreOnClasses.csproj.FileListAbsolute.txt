@@ -1,0 +1,7 @@
+C:\Users\Yasin\source\repos\MoreOnClasses\MoreOnClasses\bin\Debug\MoreOnClasses.exe.config
+C:\Users\Yasin\source\repos\MoreOnClasses\MoreOnClasses\bin\Debug\MoreOnClasses.exe
+C:\Users\Yasin\source\repos\MoreOnClasses\MoreOnClasses\bin\Debug\MoreOnClasses.pdb
+C:\Users\Yasin\source\repos\MoreOnClasses\MoreOnClasses\obj\Debug\MoreOnClasses.csprojAssemblyReference.cache
+C:\Users\Yasin\source\repos\MoreOnClasses\MoreOnClasses\obj\Debug\MoreOnClasses.csproj.CoreCompileInputs.cache
+C:\Users\Yasin\source\repos\MoreOnClasses\MoreOnClasses\obj\Debug\MoreOnClasses.exe
+C:\Users\Yasin\source\repos\MoreOnClasses\MoreOnClasses\obj\Debug\MoreOnClasses.pdb
